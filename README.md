@@ -20,7 +20,7 @@ The repository contains all the papers and model links in the MusicLM field.
 2. **Text2Music** [dataset](https://github.com/archinetai/audio-data-pytorch)
 3. **AudioSet** [dataset](https://research.google.com/audioset/dataset/index.html)
 4. **MusicLM** [dataset](https://www.kaggle.com/datasets/googleai/musiccaps)
-5. # Compiled Misc Table
+### Compiled Misc Table
 
 ## General Sound Dataset
 | Name                                             | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | URL                                                                                    | Data Type                                                                                 |Total Duration           | Total Audio Number | Status                   |
