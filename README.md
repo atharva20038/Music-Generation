@@ -5,8 +5,8 @@ The repository contains all the papers and model links in the MusicLM field.
 ## Diffusion Models
 1. Qingqing Huang, Daniel S. Park, Tao Wang, Timo I. Denk, Andy Ly, Nanxin Chen, Zhengdong Zhang, Zhishuai Zhang, Jiahui Yu, Christian Frank, Jesse Engel, Quoc V. Le, William Chan, Zhifeng Chen, & Wei Han. (2023). Noise2Music: Text-conditioned Music Generation with Diffusion Models. [paper](https://arxiv.org/pdf/2302.03917)
 2. Flavio Schneider, Ojasv Kamal, Zhĳing Jin, & Bernhard Schölkopf. (2023). Mousai: Text-to-Music Generation with Long-Context Latent Diffusion. [paper](https://arxiv.org/abs/2301.11757)
-3. **MubertAI** [paper](https://github.com/MubertAI/Mubert-Text-to-Music?tab=readme-ov-file)
-4. **Riffusion** [paper](https://huggingface.co/riffusion/riffusion-model-v1)
+3. **MubertAI** [link](https://github.com/MubertAI/Mubert-Text-to-Music?tab=readme-ov-file)
+4. **Riffusion** [link](https://huggingface.co/riffusion/riffusion-model-v1)
 
 ## Transformer Models
 1. Jade Copet, Felix Kreuk, Itai Gat, Tal Remez, David Kant, Gabriel Synnaeve, Yossi Adi, & Alexandre Défossez. (2024). Simple and Controllable Music Generation. [paper](https://arxiv.org/pdf/2306.05284)
