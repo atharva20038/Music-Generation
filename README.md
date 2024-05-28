@@ -16,10 +16,15 @@ The repository contains all the papers and model links in the MusicLM field.
 1. Briot, J.P., & Pachet, F. (2018). Deep learning for music generation: challenges and directions. Neural Computing and Applications, 32(4), 981–993. [paper](https://arxiv.org/pdf/1712.04371)
 
 ## Datasets
+### Current Research Datasets
 1. **MagnaTagATune** [dataset](https://mirg.city.ac.uk/codeapps/the-magnatagatune-dataset)
 2. **Text2Music** [dataset](https://github.com/archinetai/audio-data-pytorch)
 3. **AudioSet** [dataset](https://research.google.com/audioset/dataset/index.html)
 4. **MusicLM** [dataset](https://www.kaggle.com/datasets/googleai/musiccaps)
+
+### Regional Music Datasets
+1. **MAST Rhythm Dataset** [dataset](https://zenodo.org/records/2620357)
+   
 ### Compiled Misc Table
 
 ## General Sound Dataset
