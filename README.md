@@ -24,6 +24,7 @@ The repository contains all the papers and model links in the MusicLM field.
 
 ### Regional Music Datasets
 1. **MAST Rhythm Dataset** [dataset](https://zenodo.org/records/2620357)
+2. **Indian Classical Music Dataset** [dataset](https://www.kaggle.com/datasets/kcwaghmarewaghmare/indian-music-raga) : contains audio samples for 8 different Raagas
    
 ### Compiled Misc Table
 
