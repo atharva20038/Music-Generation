@@ -1,6 +1,5 @@
 # Music & Language Modelling
-This is the list of tutorials, workshops, papers, and resources on computational linguistic approaches to code-switching research. The list will be updated over time.
-The repository contains all the papers and model links in the MusicLM field. 
+This repository contains a comprehensive list of datasets, papers, and other resources on the use of large language models in music generation. Continuously updated, it aims to include all relevant resources and links for research in crafting high-fidelity music from multimodal inputs such as text and images.
 
 ## Diffusion Models
 1. Qingqing Huang, Daniel S. Park, Tao Wang, Timo I. Denk, Andy Ly, Nanxin Chen, Zhengdong Zhang, Zhishuai Zhang, Jiahui Yu, Christian Frank, Jesse Engel, Quoc V. Le, William Chan, Zhifeng Chen, & Wei Han. (2023). Noise2Music: Text-conditioned Music Generation with Diffusion Models. [paper](https://arxiv.org/pdf/2302.03917)
