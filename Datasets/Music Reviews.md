@@ -11,5 +11,5 @@ insights into the musical elements, context, and impact of the work.
 
 | **Name** | **Description** | **Link** | **Columns** | **Samples Count** | **Audio Length** | **License** |
 |----------|------------------|----------|--------------|-------------------|------------------|-------------|
-| AllMusic Reviews | A collection of music reviews and ratings for albums and songs across various genres | [Link](https://www.allmusic.com/) | Review ID, Album, Artist, Genre, Rating, Review Text | - | - | [AllMusic Terms of Service](https://www.allmusic.com/terms) |
+| AllMusic Reviews | A collection of music reviews and ratings for albums and songs across various genres | [Link](https://www.allmusic.com/) | Review ID, Album, Artist, Genre, Rating, Review Text | - | - | Not publicly available to download |
 
