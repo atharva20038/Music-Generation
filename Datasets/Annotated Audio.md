@@ -1,4 +1,4 @@
-#### "Annotated Audio" includes audio collections with additional commentary, transcriptions, or annotations to enrich the listening experience by providing some explanations of the musical content.
+**Annotated Audio** includes audio collections with additional commentary, transcriptions, or annotations to enrich the listening experience by providing some explanations of the musical content.
 
 - **Name:** The title of the dataset.
 - **Description:** A brief summary of the dataset's content and purpose.
