@@ -10,5 +10,5 @@
 
 | **Name** | **Description** | **Link** | **Columns** | **Samples Count** | **Audio Length** | **License** |
 |----------|------------------|----------|--------------|-------------------|------------------|-------------|
-| AudioSet | An extensive dataset of audio clips categorized into various sound events with descriptive labels | [Link](https://research.google.com/audioset/) | Clip ID, Start Time, End Time, Labels | 2,084,320 | Varies | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| AudioSet | An extensive dataset of audio clips categorized into various sound events with human labels drawn from YouTube videos. The AudioSet dataset is a large-scale collection of human-labeled 10-second sound clips drawn from YouTube videos. | [Link](https://research.google.com/audioset/) | Clip ID, Start Time, End Time, Labels | 2,084,320 | Varies | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 
