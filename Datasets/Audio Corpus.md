@@ -1,4 +1,4 @@
-**Audio Corpus** is a comprehensive collection of music-only data. This resource encompasses various recordings for analysis, study, and application in music research.
+**Audio Corpus** is a comprehensive collection of music-only data, with some files including MIDI (Musical Instrument Digital Interface) information. This resource encompasses various recordings, making it valuable for analysis, study, and application in music research.
 
 - **Name:** The title of the dataset.
 - **Description:** A brief summary of the dataset's content and purpose.
