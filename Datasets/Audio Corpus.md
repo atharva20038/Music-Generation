@@ -10,4 +10,3 @@
 
 | **Name** | **Description** | **Link** | **Columns** | **Samples Count** | **Audio Length** | **License** |
 |----------|------------------|----------|--------------|-------------------|------------------|-------------|
-| MAESTRO | Classical piano performances with MIDI | [Link](https://magenta.tensorflow.org/datasets/maestro) | Track ID, MIDI Data, Audio | 200 | Varies | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
