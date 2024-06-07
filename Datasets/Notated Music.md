@@ -6,7 +6,8 @@ elements of a musical performance. This written representation allows musicians 
 - **Link:** URL to access the dataset.
 - **Columns:** Names of columns provided in the dataset.
 - **Samples Count:** The number of audio samples or tracks included in the dataset.
-- **Audio Length:** The total length of the audio content, or the length of individual samples if uniform.
+- **Audio Length:** The total length of the audio content, or the size of individual samples if uniform.
+- **Notes:** Notes are the symbols that represent the pitch and duration of a sound. They are the fundamental building blocks of written music, allowing musicians to read, write, and perform pieces of music.
 - **License:** The type of license under which the dataset is available.
 
 | **Name** | **Description** | **Link** | **Columns** | **Samples Count** | **Audio Length** | **Notes** | **License** |
