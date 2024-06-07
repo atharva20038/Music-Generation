@@ -9,6 +9,8 @@ elements of a musical performance. This written representation allows musicians 
 - **Audio Length:** The total length of the audio content, or the length of individual samples if uniform.
 - **License:** The type of license under which the dataset is available.
 
-| **Name** | **Description** | **Link** | **Columns** | **Samples Count** | **Audio Length** | **License** |
+| **Name** | **Description** | **Link** | **Columns** | **Samples Count** | **Audio Length** | **Notes** | **License** |
 |----------|------------------|----------|--------------|-------------------|------------------|-------------|
-| MAESTRO | Classical piano performances with MIDI | [Link](https://magenta.tensorflow.org/datasets/maestro) | Track ID, MIDI Data, Audio | 200 | Varies | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
+| MAESTRO | Classical piano performances with MIDI | [Link](https://magenta.tensorflow.org/datasets/maestro) | Track ID, MIDI Data, Audio | 200 | Varies | 6 | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
+| GiantMIDI-Piano | GiantMIDI-Piano is a classical piano MIDI dataset, transcribed from live recordings with a high-resolution piano transcription system. | [Link](https://github.com/bytedance/GiantMIDI-Piano) | - | 10,854 | Varies | 39 | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
+| Lakh-MIDI | - | [Link](https://colinraffel.com/projects/lmd/#get) | - | 176,581 | Varies | 535 | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
