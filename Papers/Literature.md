@@ -1,3 +1,3 @@
-| **Title** | **Institution** | **Publication Year** | **Dataset** | **Architecture of Model** | **Description** | **Novelty** | **Paper** | **Code** |
+| **Title** | **Institution** | **Type of Model** | **Dataset** | **Description** | **Novelty** | **Paper** | **Code** | **Publication Year** |
 |----------|------------------|----------|--------------|-------------------|------------------|-------------|---------|-------|
-| Million Song Dataset | Metadata and audio features for a million songs | [Link](http://millionsongdataset.com/) | Track ID, Title, Artist, Lyrics | 1,000,000 | Varies | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| APOPCALEAPS | KU Leuven, Belgium | Probabilistic Model | - | APOPCALEAPS is a system designed to automatically create music using a programming language called CHRiSM. It uses high-level rules and probabilities to generate music. | - | [Link](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=89f9ec84102de51636ad6df033acb59ac541f200) | - | - |
