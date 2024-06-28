@@ -1,6 +1,8 @@
 ### Compiled Table for Datasets
 
 The following table contains a compilation of all the datasets with categorization under different criteria to create a taxonomy of datasets based on the ontology given.
+"*" means that the following categorization is our assumption and is not mentioned in the readme or description of the datasets. 
+"-" means we were not able to deduce the category of the particular dataset given with the readme or examples and we need to move into an in-depth analysis of the dataset to decide the same.
 
 
 | Dataset                                 | Link           | Description                                                                                                                                                                                                                                                            | Average Time   | Instance Count   | Utility                                                                                                          | Usability                  | Representation                                     | Musical Focus                                   | Genre       | Region                  | Texture                                 | Remarks                                                                                                                         |
