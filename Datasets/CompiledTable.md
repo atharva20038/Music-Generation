@@ -2,10 +2,10 @@
 
 The following table contains a compilation of all the datasets with categorization under different criteria to create a taxonomy of datasets based on the ontology given.
 * "*" means that the following categorization is our assumption and is not mentioned in the readme or description of the datasets. 
-* "-" means we were not able to deduce the category of the particular dataset given with the readme or examples and we need to move into an in-depth analysis of the dataset to decide the same.
+* "-" means we were not able to deduce the category of the particular dataset given with the readme or examples, and we need to move into an in-depth analysis of the dataset to decide on the same.
 
-| Dataset | Link   | Description | Average Time | Instance Count | Utility | Usability | Representation | Musical Focus | Genre | Region | Texture | Remarks |
-|:--------|:-------|:------------|:-------------|:---------------|:--------|:----------|:---------------|:--------------|:------|:-------|:--------|:--------|
+| Dataset | Link | Description | Average Time | Instance Count | Utility | Usability | Representation | Musical Focus | Genre | Region | Texture | Remarks |
+|:--------|:-----|:------------|:-------------|:---------------|:--------|:----------|:---------------|:--------------|:------|:-------|:--------|:--------|
 | 200 Drums Dataset | [Link](https://www.hexawe.net/mess/200.Drum.Machines/) | 200 drum beat types with title of each type. | 1-2 seconds | 200 | Music Composition | [MIT License](https://opensource.org/licenses/MIT) | Symbolic - MIDI | Rhythm | - | European - Western | - | Tempo Only Dataset |
 | AcousticBrainz Dataset | [Link 1](https://mtg.github.io/acousticbrainz-genre-dataset/), [Link 2](https://acousticbrainz.org/) | The task is focused on content-based music genre recognition using genre annotations from multiple sources and large-scale music features data available in the AcousticBrainz database. | - | 2,000,000 | Music Composition, Audio Classification (Genre), Music Retrieval | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | Non-Symbolic* | Rhythm, Harmony, Melody | Multi-Genre | European - Western | Homophonic, Monophonic * | Primarily created for genre classification. Gives the output for each model and the probability of classification based on it. |
 | AcousticEvent Dataset | [Link](https://data.vision.ee.ethz.ch/cvl/ae_dataset/) | This dataset contains 28 class acoustic event sounds. | 8.3 seconds | 5,223 | Music Composition, Audio Classification (Event)* | - | Non-Symbolic - Waveform | - | - | European - Western* | Monophonic* | Created with 28 types of audio |
