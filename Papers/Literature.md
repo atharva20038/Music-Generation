@@ -1,4 +1,4 @@
-The following table contains 20 models for music generation under different strategies.
+The following table contains 16 models for music generation under different strategies.
 
 | Publication Year | Title                                                                                        | Institution                         | Type of Model                              | Dataset                     | Paper                                                                                                 | Code |
 |------------------|----------------------------------------------------------------------------------------------|-------------------------------------|--------------------------------------------|-----------------------------|-------------------------------------------------------------------------------------------------------|------|
