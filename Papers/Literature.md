@@ -17,3 +17,9 @@ The following table contains 15 models for music generation under different stra
 | 2023             | Tango              | DeCLaRe Lab, Singapore University of Technology and Design, Singapore                                   | Latent Diffusion Model                      | [AudioCaps](https://audiocaps.github.io/)                           | [Link](https://arxiv.org/abs/2304.13731)                                                             | [Link](https://github.com/declare-lab/tango)    |
 | 2023             | Tango 2 | DeCLaRe Lab, Singapore University of Technology and Design, Singapore                                   | Fine-tuned publicly available Tango text-to-audio model using diffusion-DPO (direct preference optimization)              | [Audio-Alpaca](https://huggingface.co/datasets/declare-lab/audio-alpaca)                            | [Link](https://arxiv.org/abs/2404.09956)                                                             | [Link](https://tango2-web.github.io/)    |
 |2024 | MusicGen | Meta AI | Single Language Model that operates over several streams of compressed discrete music representation | | | [Link](https://github.com/facebookresearch/audiocraft) | 
+
+
+Additional repositories:
+- Micorosft: https://github.com/microsoft/muzic
+- Google: https://github.com/magenta https://magenta.withgoogle.com/
+- Meta: https://github.com/facebookresearch/audiocraft
