@@ -1,3 +1,8 @@
+The following table contains 31 models for music generation under different strategies.
+- "*" means that the following model is publicly available (both code and checkpoint).
+- "**" means that the following model is not publicly available but a playground is given to experiment with generated samples.
+
+
 | Publication Year | Title                                                                                        | Institution                         | Type of Model                              | Dataset                     | Paper                                                                                                 | Code |
 |------------------|----------------------------------------------------------------------------------------------|-------------------------------------|--------------------------------------------|-----------------------------|-------------------------------------------------------------------------------------------------------|------|
 | 1994             | GenJam                                                                                       | -                                   | Genetic Algorithm                           | -                           | [Link](https://doi.org/10.1109/MEC.2000.917844)                                                      | -    |
