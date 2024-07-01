@@ -23,3 +23,4 @@ Additional repositories:
 - Micorosft: https://github.com/microsoft/muzic
 - Google: https://github.com/magenta https://magenta.withgoogle.com/
 - Meta: https://github.com/facebookresearch/audiocraft
+- Suno AI playground: https://suno.com/
